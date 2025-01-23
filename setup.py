@@ -7,7 +7,7 @@ used by setup tools to define the config of project such as metadata, dependenci
 
 '''
 
-from setuptools import find_packages, setup
+from setuptools import find_packages,setup
 from typing import List
 
 def get_requirements()->List[str]:
@@ -34,7 +34,7 @@ def get_requirements()->List[str]:
 # print(get_requirements())
 
 setup(
-    name="NetworkSecurity",
+    name="networkSecurity",
     version="0.0.1",
     author="Tejaswini",
     author_email="tejaswinidurge41@gmail.com",

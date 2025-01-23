@@ -2,7 +2,12 @@ python-dotenv
 pandas
 numpy
 pymongo
-setuptools
 certifi
-
-# -e .
+pymongo[srv]
+scikit-learn
+mlflow
+pyaml
+dagshub
+fastapi
+uvicorn
+python-multipart
