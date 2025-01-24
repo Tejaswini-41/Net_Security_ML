@@ -1,0 +1,7 @@
+Data drift: refers to the phenomenon where the statistical properties of data change over time, which can negatively impact the performance of machine learning models.
+
+Why Does Data Drift Happen?
+Changes in user behavior.
+Seasonal trends (e.g., sales during holidays).
+Introduction of new data sources.
+Errors in data collection or preprocessing.
